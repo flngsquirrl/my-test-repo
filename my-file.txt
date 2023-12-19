@@ -1,0 +1,1 @@
+check fast forward without merge commit: is it possible?
